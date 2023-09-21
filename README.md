@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React**
 - 🤝 I’m looking for help with **I'm open to collaborating on Projects**
 - 📫 How to reach me **gpatrellfazio@gmail.com**
-- 👀 See my portfolio here **graehmsportfolio.netlify.app**
+- 👀 See my [portfolio](graehmsportfolio.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
