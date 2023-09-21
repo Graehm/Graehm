@@ -3,6 +3,7 @@
 <h2 align="center">Hi!👋 I'm Graehm Fazio</h2>
 <h3 align="center">Software Engineer</h3>
 ___
+
 - 📍 Ann Arbor MI -> Memphis TN
 - 🔭 I’m currently working on **Driveway Diagnostics & refreshing previous projects**
 - 🌱 I’m currently learning **React**
