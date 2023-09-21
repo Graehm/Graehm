@@ -3,13 +3,12 @@
 <h2 align="center">Hi!👋 I'm Graehm Fazio</h2>
 <h3 align="center">Software Engineer</h3>
 
+- 📍 Ann Arbor MI -> Memphis TN
 - 🔭 I’m currently working on **Driveway Diagnostics & refreshing previous projects**
-
 - 🌱 I’m currently learning **React**
-
 - 🤝 I’m looking for help with **I'm open to collaborating on Projects**
-
 - 📫 How to reach me **gpatrellfazio@gmail.com**
+- 👀 See my portfolio here **graehmsportfolio.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
