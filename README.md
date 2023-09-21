@@ -1,8 +1,5 @@
-<div align="center" style="border-radius: 50%; overflow: hidden;">
-  <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
-</div>
 <h2 align="center">Hi!👋 I'm Graehm Fazio</h2>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 
 - 📍 Ann Arbor MI -> Memphis TN
