@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **React, Next.js & Typescript**
 - 🤝 I'm open to collaborating on Projects
 - 📫 How to reach me **gpatrellfazio@gmail.com**
-- 👀 Check out my [portfolio](portfolio.graehm.me)
+- 👀 Check out my [portfolio](https://portfolio.graehm.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
