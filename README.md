@@ -4,7 +4,7 @@
 
 - 📍 Ann Arbor MI -> Memphis TN
 - 🔭 I’m currently working on **Driveway Diagnostics & refreshing previous projects**
-- 🌱 I’m currently learning **React, Next.js & Typescript**
+- 🌱 I’m currently learning **React**
 - 🤝 I'm open to collaborating on Projects
 - 📫 How to reach me **gpatrellfazio@gmail.com**
 - 👀 Check out my [portfolio](https://portfolio.graehm.me/)
